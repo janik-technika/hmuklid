@@ -1,16 +1,5 @@
 [
   {
-    "id": "1765964088437",
-    "title": "test",
-    "description": "",
-    "location": "test",
-    "salary": "",
-    "requirements": [],
-    "benefits": [],
-    "published": false,
-    "createdAt": "2025-12-17"
-  },
-  {
     "id": "1",
     "title": "Pracovníci úklidu",
     "description": "Příbor od 8:00 - 11:00 hodin",
