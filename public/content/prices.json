@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Odstranění graffiti, polepů, úklid po havárii, vyklízení půd, sklepů, jednorázové odhrnutí sněhu z chodníků a rovných střech, úklid po tragédii atpod.",
+    "price": "Cena dohodou",
+    "category": "onetime",
+    "order": 1
+  },
+  {
+    "id": "2",
+    "name": "Čištění interiéru aut",
+    "price": "od 600 - 1200 Kč",
+    "category": "onetime",
+    "order": 2
+  },
+  {
+    "id": "3",
+    "name": "Mytí oken a výloh",
+    "price": "20 - 30 Kč/m²",
+    "category": "onetime",
+    "order": 3
+  },
+  {
+    "id": "4",
+    "name": "Mytí oken pomocí vysokozdvižné plošiny",
+    "price": "30 - 40 Kč/m²",
+    "category": "onetime",
+    "order": 4
+  },
+  {
+    "id": "5",
+    "name": "Čištění žaluzií",
+    "price": "20 - 40 Kč/m²",
+    "category": "onetime",
+    "order": 5
+  },
+  {
+    "id": "6",
+    "name": "Čištění koberců",
+    "price": "25 - 30 Kč/m²",
+    "category": "onetime",
+    "order": 6
+  },
+  {
+    "id": "7",
+    "name": "Kompletní úklid",
+    "price": "240 - 260 Kč/hod",
+    "category": "onetime",
+    "order": 7
+  },
+  {
+    "id": "8",
+    "name": "Úklid po rekonstrukci a malování",
+    "price": "260 - 300 Kč/hod",
+    "category": "onetime",
+    "order": 8
+  },
+  {
+    "id": "9",
+    "name": "Čištění čalouněného nábytku",
+    "price": "300 - 350 Kč/ks",
+    "category": "onetime",
+    "order": 9
+  },
+  {
+    "id": "10",
+    "name": "Voskování (linolea a dlažby)",
+    "price": "25 - 55 Kč/m²",
+    "category": "onetime",
+    "order": 10
+  },
+  {
+    "id": "11",
+    "name": "Renovace podlahových krytin, strojové čištění dlažby, mramoru a linolea",
+    "price": "od 5 - 25 Kč/m²",
+    "category": "onetime",
+    "order": 11
+  },
+  {
+    "id": "12",
+    "name": "Úklid společných prostor domů",
+    "price": "120 - 145 Kč/byt. jednotku za měsíc",
+    "category": "onetime",
+    "order": 12
+  },
+  {
+    "id": "13",
+    "name": "Kanceláře s nábytkem a vysávání",
+    "price": "0,50 - 1,50 Kč/m²",
+    "category": "regular",
+    "order": 1
+  },
+  {
+    "id": "14",
+    "name": "Sociální zařízení",
+    "price": "0,60 - 1,50 Kč/m²",
+    "category": "regular",
+    "order": 2
+  },
+  {
+    "id": "15",
+    "name": "Chodby, schodiště",
+    "price": "0,40 - 1,00 Kč/m²",
+    "category": "regular",
+    "order": 3
+  },
+  {
+    "id": "16",
+    "name": "Výrobní haly",
+    "price": "0,70 - 1,30 Kč/m²",
+    "category": "regular",
+    "order": 4
+  },
+  {
+    "id": "17",
+    "name": "Zdravotní zařízení",
+    "price": "0,80 - 1,50 Kč/m²",
+    "category": "regular",
+    "order": 5
+  },
+  {
+    "id": "18",
+    "name": "Pro hotely",
+    "price": "0,70 - 1,20 Kč/m²",
+    "category": "regular",
+    "order": 6
+  },
+  {
+    "id": "19",
+    "name": "Mytí podlah strojovým automatem",
+    "price": "2,50 - 3,50 Kč/m²",
+    "category": "regular",
+    "order": 7
+  },
+  {
+    "id": "1765964076991",
+    "name": "test",
+    "price": "",
+    "category": "onetime",
+    "order": 13
+  }
+]
