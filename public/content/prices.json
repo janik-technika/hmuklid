@@ -131,12 +131,5 @@
     "price": "2,50 - 3,50 Kč/m²",
     "category": "regular",
     "order": 7
-  },
-  {
-    "id": "1765964076991",
-    "name": "test",
-    "price": "",
-    "category": "onetime",
-    "order": 13
   }
 ]
