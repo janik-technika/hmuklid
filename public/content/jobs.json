@@ -2,9 +2,9 @@
   {
     "id": "1765964851145",
     "title": "Úklid kanceláří práce je vhodná i pro OZP - invalidní důchodce ",
-    "description": " směnu 4 hodiny od 15 00 hodin",
+    "description": " směnu od 15 00 hodin 4 hodiny  ",
     "location": "Nový Jičín.",
-    "salary": "Férové finanční ohodnocení od 130-135 Kč/hod",
+    "salary": "Férové finanční ohodnocení 135 Kč/hod",
     "requirements": [
       "Minimální věk od 18 let",
       "Čistý výpis rejstříku trestů",
@@ -17,24 +17,5 @@
     ],
     "published": true,
     "createdAt": "2025-12-17"
-  },
-  {
-    "id": "1",
-    "title": "Pracovníci úklidu",
-    "description": "Příbor od 8:00 - 11:00 hodin",
-    "location": "Příbor",
-    "salary": "125 Kč/hod",
-    "requirements": [
-      "Minimální věk od 18 let",
-      "Čistý výpis rejstříku trestů",
-      "Zodpovědnost, fyzickou zdatnost"
-    ],
-    "benefits": [
-      "Hlavní příjem či brigáda",
-      "Práce na DPP či HPP",
-      "Dlouhodobá spolupráce"
-    ],
-    "published": true,
-    "createdAt": "2024-01-01"
   }
 ]
