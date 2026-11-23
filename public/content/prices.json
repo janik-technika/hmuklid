@@ -44,14 +44,14 @@
   {
     "id": "7",
     "name": "Kompletní úklid",
-    "price": "240 - 260 Kč/hod",
+    "price": "280 - 300 Kč/hod",
     "category": "onetime",
     "order": 7
   },
   {
     "id": "8",
     "name": "Úklid po rekonstrukci a malování",
-    "price": "260 - 300 Kč/hod",
+    "price": "300 - 350 Kč/hod",
     "category": "onetime",
     "order": 8
   },
@@ -86,42 +86,42 @@
   {
     "id": "13",
     "name": "Kanceláře s nábytkem a vysávání",
-    "price": "0,50 - 1,50 Kč/m²",
+    "price": "0,80 - 1,50 Kč/m²",
     "category": "regular",
     "order": 1
   },
   {
     "id": "14",
     "name": "Sociální zařízení",
-    "price": "0,60 - 1,50 Kč/m²",
+    "price": "0,90 - 1,50 Kč/m²",
     "category": "regular",
     "order": 2
   },
   {
     "id": "15",
     "name": "Chodby, schodiště",
-    "price": "0,40 - 1,00 Kč/m²",
+    "price": "0,70 - 1,00 Kč/m²",
     "category": "regular",
     "order": 3
   },
   {
     "id": "16",
     "name": "Výrobní haly",
-    "price": "0,70 - 1,30 Kč/m²",
+    "price": "0,90 - 1,30 Kč/m²",
     "category": "regular",
     "order": 4
   },
   {
     "id": "17",
     "name": "Zdravotní zařízení",
-    "price": "0,80 - 1,50 Kč/m²",
+    "price": "0,90 - 1,50 Kč/m²",
     "category": "regular",
     "order": 5
   },
   {
     "id": "18",
     "name": "Pro hotely",
-    "price": "0,70 - 1,20 Kč/m²",
+    "price": "0,80 - 1,20 Kč/m²",
     "category": "regular",
     "order": 6
   },
